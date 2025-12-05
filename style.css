@@ -1,3 +1,7 @@
+h1 {
+  display: block;
+  text-align: center;
+}
 .recipes-lists {
   font-size: 1.5rem;
   text-decoration: none;
